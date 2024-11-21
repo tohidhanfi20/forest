@@ -4,4 +4,5 @@ email
 phonenumber
 address
 gender
+dob
 
